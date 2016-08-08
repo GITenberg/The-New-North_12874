@@ -1,0 +1,26 @@
+_repo: The-New-North_12874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cameron, Agnes Deans
+    birthdate: 1863
+    deathdate: 1912
+    gutenberg_agent_id: '4682'
+    url: http://www.gutenberg.org/2009/agents/4682
+description: ''
+gutenberg_issued: '2004-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cameron, Agnes Deans, 1865-1912 -- Travel -- Northwest, Canadian'
+- !lcc 'F1001'
+- !lcsh 'Mackenzie River (N.W.T.) -- Description and travel'
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- GITenberg
+title: The New North
+url: http://www.gutenberg.org/ebooks/12874
